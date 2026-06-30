@@ -1,0 +1,32 @@
+---
+description: Vira Pukalska portfolio — portfolio project
+globs: Vira Pukalska Portfolio/**
+alwaysApply: false
+---
+
+# Vira Pukalska Portfolio
+
+## Track: auto-ship
+
+- **Remote:** https://github.com/Pukakiii/Vira-Pukalska-Portfolio.git
+- **Profile:** Read `VP_data.md` first. Never commit it.
+- **Schedule offset:** +14 min (Europe/London)
+
+## Heavy adaptations (from reference)
+
+- Remove GitHub star counts and framework labels from projects
+- Rename Projects → Work/Highlights with role-appropriate showcase
+- Replace tech pills with field-relevant competencies
+- Expand socials from VP_data.md
+- JSX → TypeScript conversion
+- React 19 upgrade
+- Simplify imprint/privacy placeholder content
+
+## Styling tweak (planned)
+
+- Swap Tailwind color preset (e.g. green/blue palette)
+- Minor spacing/typography adjustments; optional light theme
+
+## Placeholders
+
+Until `VP_data.md` and `VP_pp.jpeg` are provided, use bracketed copy and generic avatar placeholder.
