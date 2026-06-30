@@ -22,10 +22,10 @@ alwaysApply: false
 - React 19 upgrade
 - Simplify imprint/privacy placeholder content
 
-## Styling tweak (planned)
+## Styling tweak (applied)
 
-- Swap Tailwind color preset (e.g. green/blue palette)
-- Minor spacing/typography adjustments; optional light theme
+- Green + dark blue Tailwind palette (replacing default purple preset)
+- Projects nav renamed to **Highlights**; star counts and framework labels removed
 
 ## Placeholders
 
