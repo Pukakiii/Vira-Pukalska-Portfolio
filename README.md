@@ -1,3 +1,5 @@
 # Vira Pukalska Portfolio
 
-Personal portfolio website. Work in progress.
+Two-column portfolio for Vira Pukalska.
+
+Content uses placeholders until `VP_data.md` is provided.
