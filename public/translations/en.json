@@ -1,0 +1,60 @@
+{
+ "general": {
+ "name": "Vira Pukalska",
+ "headline": "[Role title — to be updated]",
+ "about": [
+ "Hello — [Bio paragraph 1 — to be updated]",
+ "[Bio paragraph 2 — to be updated. Add content from VP_data.md when available.]"
+ ],
+ "socials": {
+ "email": "[email — to be updated]",
+ "linkedin": "[LinkedIn URL — to be updated]"
+ }
+ },
+ "experiences": [
+ {
+ "title": "[Role title — to be updated]",
+ "company": "[Employer — to be updated]",
+ "href": "",
+ "startDate": "[Start — to be updated]",
+ "endDate": "CURRENT",
+ "description": "[Experience description — to be updated]",
+ "logo": "/placeholder.svg",
+ "skills": ["[Competency — to be updated]"]
+ }
+ ],
+ "education": [
+ {
+ "subject": "[Field of study — to be updated]",
+ "degree": "[Degree — to be updated]",
+ "university": "[Institution — to be updated]",
+ "href": "",
+ "startDate": "[Start — to be updated]",
+ "endDate": "[End — to be updated]",
+ "description": "[Education description — to be updated]"
+ }
+ ],
+ "volunteering": [
+ {
+ "position": "[Role — to be updated]",
+ "event": "[Activity — to be updated]",
+ "organisation": "[Organisation — to be updated]",
+ "href": "",
+ "startDate": "[Start — to be updated]",
+ "endDate": "NOW",
+ "description": "[Community highlight — to be updated]"
+ }
+ ],
+ "projects": [
+ {
+ "name": "[Highlight — to be updated]",
+ "description": "[Highlight description — to be updated]",
+ "href": ""
+ },
+ {
+ "name": "[Highlight — to be updated]",
+ "description": "[Highlight description — to be updated]",
+ "href": ""
+ }
+ ]
+}
