@@ -4,7 +4,8 @@ const Credits = (props) => {
  return (
  <div data-section id="credits" className="group mt-32">
  <div className="text-surface-600">
- <div className="flex flex-row justify-between">
+ <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
+ <div className="flex flex-row gap-6">
  <a
  href="/imprint"
  rel="noopener noreferrer"
@@ -19,6 +20,27 @@ const Credits = (props) => {
  >
  Privacy Statement
  </a>
+ </div>
+ <p className="text-sm">
+ Built with{" "}
+ <a
+ href="https://nextjs.org"
+ target="_blank"
+ rel="noopener noreferrer"
+ className="transition-all hover:text-on-background"
+ >
+ Next.js
+ </a>{" "}
+ and{" "}
+ <a
+ href="https://tailwindcss.com"
+ target="_blank"
+ rel="noopener noreferrer"
+ className="transition-all hover:text-on-background"
+ >
+ Tailwind CSS
+ </a>
+ </p>
  <span>
  {props.data.name} | {new Date().getFullYear()}
  </span>
