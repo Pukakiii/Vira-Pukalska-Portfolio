@@ -6,11 +6,12 @@ alwaysApply: false
 
 # Vira Pukalska Portfolio
 
-## Track: auto-ship
+## Track: auto-ship (in progress — 17/21)
 
 - **Remote:** https://github.com/Pukakiii/Vira-Pukalska-Portfolio.git
-- **Profile:** Read `VP_data.md` first. Never commit it.
-- **Schedule offset:** +14 min (Europe/London)
+- **Attribution:** handled manually by the user at deploy — do not add credits in shipped code; do not delete the existing committed `LICENSE` without an explicit request.
+- **Profile:** Read `VP_data.md` first (not yet provided — all copy stays bracketed placeholders). Never commit it.
+- Slices 18–21 pending in `.ship/manifest.json`; run `.ship/ship-next-commit.sh` when due.
 
 ## Heavy adaptations (from reference)
 
