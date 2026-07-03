@@ -46,3 +46,8 @@ next-env.d.ts
 
 # Shipping machinery (local only)
 .ship/
+
+# Local agent docs (never commit)
+.cursor/plans/
+PROJECT_SUMMARY.md
+PORTFOLIO_REFINEMENT_PROMPT.md
